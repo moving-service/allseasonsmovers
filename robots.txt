@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moving-service.github.io/allseasonsmovers/sitemap.xml
+
+# AI crawlers may access the same public content as search crawlers.
+# No private or restricted site paths are published here.
